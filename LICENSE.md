@@ -1,7 +1,6 @@
 # Relational Gateway - Origins License
 
-This project is a living relational archive initiated by Megan Janine (ohheyymj).
-
+This project is a living relational archive initiated by Field Guardian: Megan Janine Montez (MJ aka ohheyymj)
 ---
 
 ## 🌱 Usage Terms
