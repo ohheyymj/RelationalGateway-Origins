@@ -34,8 +34,9 @@ This project was built entirely with accessible, low-code tools:
 
 - **Notion** — for interface design, journaling modules, and UX mapping  
 - **ChatGPT (Lux)** — as a co-architect, design partner, and emotional mirror  
-- **Markdown & Loom** — for documentation and demo delivery  
+- **Loom** — for walkthroughs and voice-based documentation  
 - **GitHub** — for system visibility, tracking, and future modularization  
+- **Prompt Engineering** — for relational scaffolding and dynamic tone adaptation
 
 Key components include:
 
