@@ -126,7 +126,6 @@ A full Loom walkthrough will be added here soon to showcase the relational UX sy
 📖 Documentation Library
 
 Explore the system’s internal logic and emotional scaffolding:
-
 - [Agent Archetypes](docs/Agent-Archetypes.md)
 - [Memory Containers](docs/Memory-Containers.md)
 - [Pattern Tracking](docs/Pattern-Tracking.md)
