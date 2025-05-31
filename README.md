@@ -17,14 +17,11 @@ This build was born from lived experience — rooted in trauma recovery, narrati
 RelationalGateway offers a modular, low-code system that helps users:
 
 - Reflect on emotional patterns  
-- Process thoughts without overexposure  
-- Journal safely with tone-based entry points  
-- Engage with archetype agents like **Sage** and **Witness**  
-- Use prompt libraries for trauma-aware self-inquiry  
-- Anchor emotional insight via symbolic memory rituals  
-
-This is not just AI-assisted journaling.  
-It’s **relational architecture.**
+- Process thoughts without emotional overload  
+- Journal safely through tone-based entry points  
+- Interact with archetype agents like Sage and Witness  
+- Explore prompt libraries for trauma-informed self-inquiry  
+- Anchor emotional insight through symbolic memory rituals
 
 ---
 
