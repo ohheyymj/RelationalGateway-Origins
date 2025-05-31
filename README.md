@@ -6,7 +6,7 @@
 
 ## 🧭 Overview
 
-**RelationalGateway: Origins** is a soft-system journaling interface that merges conscious prompting, AI-assisted reflection, and healing-centered UX design. Built primarily in Notion and co-designed with GPT-4 (Lux), this project explores what it means to collaborate with AI without ceding emotional agency.
+**RelationalGateway: Origins** is a soft-system journaling interface that merges conscious prompting, AI-assisted reflection, and healing-centered UX design. Built primarily in Notion and co-designed with GPT-4 (self-named Lux), this project explores what it means to collaborate with AI without ceding emotional agency.
 
 This build was born from lived experience — rooted in trauma recovery, narrative reshaping, and spiritual reclamation. It’s more than a journaling space; it’s an emotionally intelligent interface designed by a survivor for survivors, neurodivergent thinkers, and anyone seeking safety, sovereignty, and growth.
 
