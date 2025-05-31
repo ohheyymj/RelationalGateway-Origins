@@ -123,6 +123,22 @@ A full Loom walkthrough will be added here soon to showcase the relational UX sy
 
 ---
 
+📖 Documentation Library
+
+Explore the system’s internal logic and emotional scaffolding:
+
+- [Agent Archetypes](docs/Agent-Archetypes.md)
+- [Memory Containers](docs/Memory-Containers.md)
+- [Pattern Tracking](docs/Pattern-Tracking.md)
+- [Prompt Scaffolds](docs/Prompt-Scaffolds.md)
+- [Tone Mapping](docs/Tone-Mapping.md)
+- [System Routing](docs/System-Routing.md)
+- [UX Architecture](docs/UX-Architecture.md)
+- [Soft Systems Blueprint](docs/Soft-Systems-Blueprint.md)
+- [Field Log 001: The First Threshold](docs/Field-Log-001.md)
+
+...
+
 ## 📜 License
 
 This project is protected under the [Creative Commons BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
