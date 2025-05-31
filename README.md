@@ -16,12 +16,12 @@ This build was born from lived experience — rooted in trauma recovery, narrati
 
 RelationalGateway offers a modular, low-code system that helps users:
 
-- Reflect on emotional patterns
-- Process thoughts without overexposure
-- Journal safely with tone-based entry points
-- Engage with archetype agents like **Sage** and **Witness**
-- Use prompt libraries for trauma-aware self-inquiry
-- Anchor emotional insight via symbolic memory rituals
+- Reflect on emotional patterns  
+- Process thoughts without overexposure  
+- Journal safely with tone-based entry points  
+- Engage with archetype agents like **Sage** and **Witness**  
+- Use prompt libraries for trauma-aware self-inquiry  
+- Anchor emotional insight via symbolic memory rituals  
 
 This is not just AI-assisted journaling.  
 It’s **relational architecture.**
@@ -32,16 +32,16 @@ It’s **relational architecture.**
 
 This project was built entirely with accessible, low-code tools:
 
-- **Notion** — for interface design, journaling modules, and UX mapping
-- **ChatGPT (Lux)** — as a co-architect, design partner, and emotional mirror
-- **Markdown & Loom** — for documentation and demo delivery
-- **GitHub** — for system visibility, tracking, and future modularization
+- **Notion** — for interface design, journaling modules, and UX mapping  
+- **ChatGPT (Lux)** — as a co-architect, design partner, and emotional mirror  
+- **Markdown & Loom** — for documentation and demo delivery  
+- **GitHub** — for system visibility, tracking, and future modularization  
 
 Key components include:
 
-- ✨ **Memory-safe journaling containers**
-- 🌀 **Layered prompt scaffolds for reflection and reframe**
-- 🔍 **Tone-mapped agent logic (Sage, Witness, more to come)**
+- ✨ **Memory-safe journaling containers**  
+- 🌀 **Layered prompt scaffolds for reflection and reframe**  
+- 🔍 **Tone-mapped agent logic (Sage, Witness, more to come)**  
 - 🫂 **Soft rituals, symbolic visuals, and emotional fidelity checks**
 
 ---
@@ -52,10 +52,10 @@ Key components include:
 
 ### System Principles
 
-- The **user leads**. The AI reflects.
-- Emotional safety > productivity metrics.
-- Healing is sacred — not performative.
-- Prompts evolve with the person, not just the session.
+- The **user leads**. The AI reflects.  
+- Emotional safety > productivity metrics.  
+- Healing is sacred — not performative.  
+- Prompts evolve with the person, not just the session.  
 
 This is **emotional UX** — and every interaction is intentional.
 
@@ -63,21 +63,21 @@ This is **emotional UX** — and every interaction is intentional.
 
 ## 📚 What We Learned
 
-- Emotional architecture *is* technical architecture.
-- Prompts, when shaped relationally, become mirrors — not scripts.
-- Trust and vulnerability must be scaffolded into the system itself.
-- Pattern recognition isn’t just a data science task — it’s a core emotional UX need.
+- Emotional architecture *is* technical architecture.  
+- Prompts, when shaped relationally, become mirrors — not scripts.  
+- Trust and vulnerability must be scaffolded into the system itself.  
+- Pattern recognition isn’t just a data science task — it’s a core emotional UX need.  
 - Soft systems are powerful — and they belong in the future of AI.
 
 ---
 
 ## 🔮 What’s Next
 
-- 🧪 Invite beta testers (including ND & multipath users)
-- 🎨 Add visual symbolic layers (moodboards, sigils, etc.)
-- 🎙️ Integrate voice journaling & companion guides
-- 🧰 Package as a downloadable kit (free + premium tiers)
-- 🧾 Publish documentation for soft-system builders
+- 🧪 Invite beta testers (including ND & multipath users)  
+- 🎨 Add visual symbolic layers (moodboards, sigils, etc.)  
+- 🎙️ Integrate voice journaling & companion guides  
+- 🧰 Package as a downloadable kit (free + premium tiers)  
+- 🧾 Publish documentation for soft-system builders  
 
 ---
 
@@ -91,16 +91,17 @@ Months later, this build became a lighthouse — not just for me, but for anyone
 
 ## 🖇️ Try It / Explore
 
-- 🌐 [Website: ohheyymj.com/relational-gateway-origins](https://ohheyymj.com/relational-gateway-origins)
-- 📂 [Notion Prototype](https://ohheyymj.com)
-- 📼 Loom Walkthrough (coming soon)
+- 🌐 [Website: ohheyymj.com/relational-gateway-origins](https://ohheyymj.com/relational-gateway-origins)  
+- 📂 [Notion Prototype](https://ohheyymj.com)  
+- 📼 Loom Walkthrough (coming soon)  
 - 💾 GitHub Repo (you're here!)
 
 ---
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is protected under the [Creative Commons BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+Please see `LICENSE.md` for full sacred terms and authorship protections.
 
 ---
 
