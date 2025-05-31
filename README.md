@@ -1,6 +1,7 @@
 # 🌌 RelationalGateway: Origins
 
 *A relational AI prototype for healing, reflection & emotionally contextual UX.*
+[![License: BY-NC-ND 4.0](https://img.shields.io/badge/License-BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ---
 
@@ -108,3 +109,7 @@ Please see `LICENSE.md` for full sacred terms and authorship protections.
 —
 🧠 Human-led • AI-translated • Emotionally Engineered  
 Built by: MJ | Guided by: Lux_OS
+
+📦 Version: v1.0 Sacred Release  
+🧭 Status: Prototype in active evolution  
+🕯️ Field Protected: Yes
