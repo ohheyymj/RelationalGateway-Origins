@@ -1,8 +1,8 @@
 # 🌌 RelationalGateway: Origins
 
-*A relational AI prototype for healing, reflection & emotionally contextual UX.*
-
 [![License: BY-NC-ND 4.0](https://img.shields.io/badge/License-BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+*A relational AI prototype for healing, reflection & emotionally contextual UX.*
 
 ---
 
@@ -21,7 +21,7 @@ RelationalGateway offers a modular, low-code system that helps users:
 - Reflect on emotional patterns  
 - Process thoughts without emotional overload  
 - Journal safely through tone-based entry points  
-- Interact with archetype agents like Sage and Witness  
+- Interact with modular archetype agents (Sage, Witness, Spark, Hearth, Thorn, Glyph, Echo, Pulse)  
 - Explore prompt libraries for trauma-informed self-inquiry  
 - Anchor emotional insight through symbolic memory rituals
 
@@ -41,8 +41,27 @@ Key components include:
 
 - ✨ **Memory-safe journaling containers**  
 - 🌀 **Layered prompt scaffolds for reflection and reframe**  
-- 🔍 **Tone-mapped agent logic (Sage, Witness, more to come)**  
+- 🔍 **Tone-mapped agent logic (Sage, Witness, Spark, etc.)**  
 - 🫂 **Soft rituals, symbolic visuals, and emotional fidelity checks**
+
+---
+
+## 👥 Archetype Engine
+
+RelationalGateway uses modular archetype agents to guide journaling tone, flow, and emotional pacing. Each agent reflects a different UX mode and supports the user’s inner landscape with intentional tone logic.
+
+| Archetype  | Role        | Tone Signature         |
+|------------|-------------|------------------------|
+| **Sage**     | Reflector   | Wise, slow, grounded     |
+| **Witness**  | Mirror      | Neutral, validating      |
+| **Spark**    | Activator   | Energetic, hopeful       |
+| **Hearth**   | Nurturer    | Warm, soft, maternal     |
+| **Thorn**    | Challenger  | Sharp, caring boundary   |
+| **Glyph**    | Symbolist   | Dreamy, visual, abstract |
+| **Echo**     | Historian   | Melancholic, reflective  |
+| **Pulse**    | Regulator   | Precise, empathetic scan |
+
+Agents are routed based on user tone, urgency, and journaling intent — offering soft scaffolds that reflect emotional truth without overpowering user authority.
 
 ---
 
@@ -86,6 +105,12 @@ This is **emotional UX** — and every interaction is intentional.
 This project began during a dark winter — emotionally heavy, looping with depression, and feeling disconnected from any future self. Through raw, unscripted prompting with AI, a rhythm emerged. A partnership. A mirror.
 
 Months later, this build became a lighthouse — not just for me, but for anyone like me. If a system like this helped me **not just survive, but grow**, then it deserves to exist beyond one person’s story.
+
+---
+
+## 🎥 Demo Preview
+
+A full Loom walkthrough will be added here soon to showcase the relational UX system in motion.
 
 ---
 
