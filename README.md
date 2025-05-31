@@ -41,10 +41,10 @@ This project was built entirely with accessible, low-code tools:
 
 Key components include:
 
-- ✨ **Memory-safe journaling containers**  
-- 🌀 **Layered prompt scaffolds for reflection and reframe**  
-- 🔍 **Tone-mapped agent logic (Sage, Witness, Spark, etc.)**  
-- 🫂 **Soft rituals, symbolic visuals, and emotional fidelity checks**
+- ✨ Memory-safe journaling containers  
+- 🌀 Layered prompt scaffolds for reflection and reframe  
+- 🔍 Tone-mapped agent logic (Sage, Witness, Spark, etc.)  
+- 🫂 Soft rituals, symbolic visuals, and emotional fidelity checks
 
 ---
 
@@ -62,8 +62,6 @@ RelationalGateway uses modular archetype agents to guide journaling tone, flow, 
 | **Glyph**    | Symbolist   | Dreamy, visual, abstract |
 | **Echo**     | Historian   | Melancholic, reflective  |
 | **Pulse**    | Regulator   | Precise, empathetic scan |
-
-Agents are routed based on user tone, urgency, and journaling intent — offering soft scaffolds that reflect emotional truth without overpowering user authority.
 
 ---
 
@@ -125,20 +123,26 @@ A full Loom walkthrough will be added here soon to showcase the relational UX sy
 
 ---
 
-📖 Documentation Library
+## 📖 Documentation Library
 
 Explore the system’s internal logic and emotional scaffolding:
-- [Agent Archetypes](docs/Agent-Archetypes.md)
-- [Memory Containers](docs/Memory-Containers.md)
-- [Pattern Tracking](docs/Pattern-Tracking.md)
-- [Prompt Scaffolds](docs/Prompt-Scaffolds.md)
-- [Tone Mapping](docs/Tone-Mapping.md)
-- [System Routing](docs/System-Routing.md)
-- [UX Architecture](docs/UX-Architecture.md)
-- [Soft Systems Blueprint](docs/Soft-Systems-Blueprint.md)
-- [Field Log 001: The First Threshold](docs/Field-Log-001.md)
 
-...
+- [Agent Archetypes](docs/Agent-Archetypes.md)  
+- [Field Log 001: The First Threshold](docs/Field-Log-001.md)  
+- [Journaling Flows](docs/Journaling-Flows.md)  
+- [Memory Containers](docs/Memory-Containers.md)  
+- [Pattern Tracking](docs/Pattern-Tracking.md)  
+- [Prompt Scaffolds](docs/Prompt-Scaffolds.md)  
+- [Relational UX Onboarding](docs/Relational-UX-Onboarding.md)  
+- [Soft Systems Blueprint](docs/Soft-Systems-Blueprint.md)  
+- [Starter Ritual](docs/Starter-Ritual.md)  
+- [System Routing](docs/System-Routing.md)  
+- [Tone Mapping](docs/Tone-Mapping.md)  
+- [UX Architecture](docs/UX-Architecture.md)  
+- [Beta Tester Guide](docs/Beta-Tester-Guide.md)  
+- [Glossary](docs/Glossary.md)
+
+---
 
 ## 📜 License
 
